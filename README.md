@@ -52,5 +52,5 @@
 
 - 在 GitHub 上 `Fork` 此仓库
 - 按照以上格式在 [`link.json`](./link.json) 文件中，选择你的类别，并在类别末尾新增你的信息（最末尾留一个空行）
-- 完成后，新建 `Pull Request`，PR 标题可以使用你喜欢的 emoji + 你的网址，譬如 `☁️ yuzhang.wang，当然如果你有其他更有创意的方式，也完全 OK。
+- 完成后，新建 `Pull Request`，PR 标题可以使用你喜欢的 emoji + 你的网址，譬如 `☁️ yuzhang.wang`，当然如果你有其他更有创意的方式，也完全 OK。
 - 当 `Pull Request` 被合并后，请尽快于您的站点添加本站友链，您的站点将在 10 分钟内显示在[YuZhangWang的小伙伴](https://yuzhang.wang/link/)里。
