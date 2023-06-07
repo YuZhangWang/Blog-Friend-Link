@@ -38,7 +38,7 @@
     "link": "https://yuzhang.wang",
     "avatar": "https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/202210171416164.png",
     "descr": "PLUSULTRA!"
-},
+}
 ```
 
 - `name`: 博客名称
