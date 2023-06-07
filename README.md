@@ -1,6 +1,6 @@
 # [YuZhangWang的小伙伴们](https://www.yunyoujun.cn/links/)
 
-[![YuZhangWang Friends](https://img.shields.io/badge/YuZhangWang-passing-green?style=for-the-badge&logo=github)](https://yuzhang.wang/link)
+[![YuZhangWang Friends](https://img.shields.io/badge/YuZhangWang-passing-success?style=for-the-badge&logo=github)](https://yuzhang.wang/link)
 [![links.json](https://img.shields.io/badge/links.json-yellow?style=for-the-badge)](https://github.com/YuZhangWang/Blog-Friend-Link/blob/master/link.json)
 
 
