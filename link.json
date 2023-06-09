@@ -2,13 +2,7 @@
     {
         "class_name": "大佬博客",
         "class_desc": "大佬一席话，胜读十年书",
-        "link_list": [
-            {
-                "name": "iMaeGoo’s Blog",
-                "link": "https://www.imaegoo.com",
-                "avatar": "https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/202306091538121.jpg",
-                "descr": "虹墨空间站"
-            },          
+        "link_list": [       
             {
                 "name": "TIMTian",
                 "link": "https://blog.csdn.net/qq_41938259?spm=1001.2014.3001.5512",
