@@ -63,10 +63,10 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Demonstration of effect</a>
+      <a href="#Demonstration of effect">Demonstration of effect</a>
     </li>
     <li>
-      <a href="#getting-started">Friendly Link Description</a>
+      <a href="#Friendly Link Description">Friendly Link Description</a>
       <ul>
         <li><a href="#Formula">Formula</a></li>
         <li><a href="#Content Principle">Content Principle</a></li>
@@ -74,10 +74,10 @@
     </li>
     <li><a href="#Specification">Specification</a></li>
     <li><a href="#How to exchange links">How to exchange links</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#Contributing">Contributing</a></li>
     <li><a href="#License">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#Contact">Contact</a></li>
+    <li><a href="#Acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
