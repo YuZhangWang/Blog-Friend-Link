@@ -63,17 +63,17 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#Demonstration of effect">Demonstration of effect</a>
+      <a href="#Demonstration-of-effect">Demonstration-of-effect</a>
     </li>
     <li>
-      <a href="#Friendly Link Description">Friendly Link Description</a>
+      <a href="#Friendly-Link-Description">Friendly-Link-Description</a>
       <ul>
         <li><a href="#Formula">Formula</a></li>
-        <li><a href="#Content Principle">Content Principle</a></li>
+        <li><a href="#Content-Principle">Content-Principle</a></li>
       </ul>
     </li>
     <li><a href="#Specification">Specification</a></li>
-    <li><a href="#How to exchange links">How to exchange links</a></li>
+    <li><a href="#How-to-exchange-links">How-to-exchange-links</a></li>
     <li><a href="#Contributing">Contributing</a></li>
     <li><a href="#License">License</a></li>
     <li><a href="#Contact">Contact</a></li>
@@ -83,16 +83,16 @@
 
 
 
-<!-- Demonstration of effect -->
-## Demonstration of effect
+<!-- Demonstration-of-effect -->
+## Demonstration-of-effect
 ![product-screenshot](images/screenshot.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-<!-- Friendly Link Description -->
-## Friendly Link Description
+<!-- Friendly-Link-Description -->
+## Friendly-Link-Description
 
 If you want to exchange links with us, please also read the content. Thank you for your cooperation.
 
@@ -107,7 +107,7 @@ If you want to change your link, description, avatar, etc., please create a new 
 - If the site has been inaccessible for a long time, or has not been updated for more than half a year, I will remove the links as appropriate.
 - The final explanation right belongs to us.
 
-### Content Principle
+### Content-Principle
 
 - No politically sensitive issues or illegal content.
 - No excessive advertisements that are unsightly or malicious scripts.
@@ -144,8 +144,8 @@ If you want to change your link, description, avatar, etc., please create a new 
 
 
 
-<!-- How to exchange links -->
-## How to exchange links
+<!-- How-to-exchange-links -->
+## How-to-exchange-links
 
 - `Fork` this repository on GitHub
 - Follow the format above in the [`link.json`](. /link.json) file, select your category in `Big Brother Blogs (at least 50 followers on Github)` `Special Links (Organizations, etc.)` `Peeps`, and add your information at the beginning of the category (copy other people's and put it at the top of the category to modify it).
