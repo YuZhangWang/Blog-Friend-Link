@@ -76,7 +76,7 @@
     <li><a href="#格式">格式</a></li>
     <li><a href="#如何交换友链">如何交换友链</a></li>
     <li><a href="#加入这个项目">加入这个项目</a></li>
-    <li><a href="#liceBlog-Friend-Linknse">License</a></li>
+    <li><a href="#License">License</a></li>
     <li><a href="#联系作者">联系作者</a></li>
     <li><a href="#致谢">致谢</a></li>
   </ol>

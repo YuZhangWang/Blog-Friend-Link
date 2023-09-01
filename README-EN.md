@@ -75,7 +75,7 @@
     <li><a href="#Specification">Specification</a></li>
     <li><a href="#How to exchange links">How to exchange links</a></li>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#License">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
