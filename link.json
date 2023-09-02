@@ -2,7 +2,8 @@
     {
         "class_name": "大佬博客",
         "class_desc": "大佬一席话，胜读十年书",
-        "link_list": [       
+        "link_list": 
+        [       
             {
                 "name": "TIMTian",
                 "link": "https://blog.csdn.net/qq_41938259?spm=1001.2014.3001.5512",
@@ -134,7 +135,8 @@
     {
         "class_name": "特别链接",
         "class_desc": "半分的热爱与半分的信念",
-        "link_list": [
+        "link_list": 
+        [
             {
                 "name": "Jack Cui",
                 "link": "https://cuijiahua.com/blog/spider/",
@@ -182,7 +184,8 @@
     {
         "class_name": "小伙伴们",
         "class_desc": "有空常来玩 ╮(￣▽￣)╭",
-        "link_list": [
+        "link_list": 
+        [
             {
                 "name": "Ray",
                 "link": "https://blog.r-ay.cn",
@@ -326,7 +329,8 @@
     {
         "class_name": "尚未互链",
         "class_desc": "静候佳音",
-        "link_list": [
+        "link_list": 
+        [
             {
                 "name": "均已互链",
                 "link": null,
@@ -338,7 +342,8 @@
     {
         "class_name": "阵亡将士",
         "class_desc": "挂了的小伙伴们，下次清理时未恢复的将移除哦 (￣o￣)",
-        "link_list": [
+        "link_list": 
+        [
             {
                 "name": "墨殇的技术博客",
                 "link": "https://www.inkdp.cn",
